@@ -9,7 +9,7 @@ int main()
 
     for(int i=0;i<10;i++)
     {
-        cout<<"Enter the element 1 = ";
+        cout<<"Enter the element "<<i<<" = ";
         cin>>arr[i];
     }
 
